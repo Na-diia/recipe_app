@@ -1,4 +1,4 @@
-## Note: На жаль для мене, не все, що хотіла зробити - довела до кінця. Є нариси пагінації та пошуку, пагінація закоментована, пошук ні, недопрацьований. Дякую за перевірку, буду дуже вдячна за технічний фідбек.
+## Note: 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
